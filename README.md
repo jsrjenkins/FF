@@ -1,10 +1,10 @@
-# fff (*Fucking Fast File-Manager*)
+# FF (*Fast File-Manager*)
 
 <a href="https://asciinema.org/a/IKG1pSkeIQkc4dSjw4S0DZjXj" target="_blank"><img src="https://asciinema.org/a/IKG1pSkeIQkc4dSjw4S0DZjXj.png" alt="img" height="300px" align="right"/></a>
 
 A [WIP] simple file manager written in `bash`.
 
-- It's Fucking Fast 🚀
+- It's Very Fast 
 - Minimal (*~100 lines of bash*)
 - Smooth Scrolling (*using vim keybindings*)
 - File Operations (*copy, paste, rename, cut, etc*)
@@ -22,14 +22,8 @@ A [WIP] simple file manager written in `bash`.
 
 ## Running
 
-1. `fff` or `fff path/to/dir`, `fff ../../`, `fff /usr/share/`
-2. optional: `alias f="fff"`
-
-
-## Packages
-
-- [arch (aur)](https://aur.archlinux.org/packages/fff-git/)
-
+1. `FF` or `FF path/to/dir`, `FF ../../`, `FF /usr/share/`
+2. optional: `alias F="FF"`
 
 ## Usage
 
@@ -97,7 +91,3 @@ export FFF_FAV7=
 export FFF_FAV8=
 export FFF_FAV9=
 ```
-
-## Why?
-
-¯\\_(ツ)_/¯
