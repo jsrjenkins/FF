@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# fff - fucking fast file-manager.
+# FF - fast file-manager.
 
 refresh() {
     printf '\e[?7l\e[?25l\e[2J\e[H'
