@@ -1,7 +1,5 @@
 # FF (*Fast File-Manager*)
 
-<a href="https://asciinema.org/a/IKG1pSkeIQkc4dSjw4S0DZjXj" target="_blank"><img src="https://asciinema.org/a/IKG1pSkeIQkc4dSjw4S0DZjXj.png" alt="img" height="300px" align="right"/></a>
-
 A [WIP] simple file manager written in `bash`.
 
 - It's Very Fast 
